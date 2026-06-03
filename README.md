@@ -12,4 +12,4 @@ A submissão gerou um score de 79.2%
 
 ## Video
 
-O arquivo spaceship-titanic.mp4 é o vídeo descrevendo o código-fonte.
+O arquivo spaceship-titanic.mp4 é o vídeo descrevendo o código-fonte, que também pode ser encontrado em [https://youtu.be/alu7CNNUvsU](https://youtu.be/alu7CNNUvsU).
